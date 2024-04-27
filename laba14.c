@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     double numb[] = {1.1, 2.2, 3.3, 4.4, 5.5,12.3 , 132.4, 0.1};
     int size = sizeof(numb) / sizeof(numb[0]);
